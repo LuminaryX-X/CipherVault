@@ -1,0 +1,15 @@
+# Virtual muhit
+venv/
+env/
+
+# Kesh fayllar
+__pycache__/
+*.pyc
+
+# Ma'lumotlar bazasi (Juda muhim!)
+vault.db
+*.sqlite3
+*.db
+
+# OS fayllari
+.DS_Store
